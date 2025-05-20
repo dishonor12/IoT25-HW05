@@ -16,3 +16,10 @@
 ![KakaoTalk_20250520_210326453](https://github.com/user-attachments/assets/8e4ef94b-20fe-4924-9aa6-d191a6f8e103)
 ![KakaoTalk_20250520_210326453_01](https://github.com/user-attachments/assets/ee5c7052-6c8a-4875-8e1a-d5c0661e6776)
 
+
+Temperature: cba1d466-344c-4be3-ab3f-189f80dd7518
+
+Humidity: ca73b3ba-39f6-4ab3-91ae-186dc9577d99
+
+Service: 91bad492-b950-4226-aa2b-4ede9fa42f59
+
